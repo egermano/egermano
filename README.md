@@ -1,4 +1,4 @@
-👋 Hi, I’m **Bruno Germano**, a Senior Frontend Engineer with 20 years of experience in software development, my recent experiences lies on **JavaScript**, **TypeScript**, **React**, and **Next.js**. I specialize in building scalable, high-performance web applications, integrating **gRPC-based APIs**, and optimizing mobile-first designs.
+👋 Hi, I’m **Bruno Germano**, a Senior Software Engineer with 20 years of experience in software development, my recent experiences lies on **JavaScript**, **TypeScript**, **React**, and **Next.js**. I specialize in building scalable, high-performance web applications, integrating **REST API** and **gRPC-based APIs**, and optimizing mobile-first designs.
 
 📢 I’m also a **content creator**, sharing knowledge about technology, software development, and career growth on my [YouTube channel](https://youtube.com/egermano). I enjoy mentoring developers, organizing tech events, and fostering collaboration within engineering teams.
 
